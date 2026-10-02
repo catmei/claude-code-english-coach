@@ -1,0 +1,6 @@
+{
+  "name": "english-coach",
+  "version": "0.1.0",
+  "description": "English coach for Mandarin speakers: Grammarly-style fixes on every prompt and 3 native phrases to learn while Claude works.",
+  "types": "./types/index.d.ts"
+}
